@@ -6,3 +6,6 @@ View of the project diagram
 
 
 The game's not working in the current version.
+
+
+Developed by Victor DAUMAS ( no : 20000032 )
